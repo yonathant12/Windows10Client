@@ -18,7 +18,7 @@ Click the "File" option on the top left and select "New Virtual Machine". Choose
 <br />
 <br />
 Select the "I will install the operating system later" option and click next.<br/>
-<img src="https://i.imgur.com/nEopp5i.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nEopp5i.png" height="60%" width="60%"/>
 <br />
 <br />
 Select Microsoft Windows as the Guest operating system and choose Windows 10 x64 as the Version, then click next.<br/>

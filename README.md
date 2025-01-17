@@ -12,7 +12,7 @@ Setting up a Windows 10 client on VMware Workstation 17 Pro involves creating a 
 
 <h2>Lab walk-through:</h2>
 
-<p align="center">
+<p align="left">
 Click the "File" option on the top left and select "New Virtual Machine". Choose the Custom option and hit next.<br/>
 <img src="https://i.imgur.com/L7q5mZ5.png" height="60%" width="60%"/>
 <br />
